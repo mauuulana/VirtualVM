@@ -6,12 +6,13 @@ This is a project my exercise on Swift. Virtual Vending Machine is the vending m
 <br/>
 <br/>
 
-#Requirements
+# Requirements
 Xcode 11 <br/>
 iOS 13<br/>
+Run With iPhone 11 or iPhone 11 Pro Max (Because currently not use AutoLayout)<br/>
 <br/>
 
-#How to use
+# How to use
 Clone the repository<br/>
 Build and Run project<br/>
 <br/>
